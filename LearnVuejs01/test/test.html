@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../js/vue.js"></script>
+</head>
+<body>
+
+<div id="app">
+    <h2>当前数据：{{country}}</h2>
+    <button @click="add">+</button>
+    <button @click="sub">-</button>
+</div>
+
+<script>
+    let app = new Vue({
+        el: '#app',
+        data: {
+            country: 0,
+
+        },
+        methods: {
+            add: function () {
+                console.log("增加数据开始了");
+                this.country++
+            },
+
+            sub: function () {
+                console.log("减数开始了")
+                this.country--
+            }
+        },
+        created: function () {
+            console.log('created');
+        },
+        mounted: function () {
+            console.log('mounted')
+        }
+    })
+</script>
+
+</body>
+</html>
