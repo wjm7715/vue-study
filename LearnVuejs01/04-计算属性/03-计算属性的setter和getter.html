@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  {{fullName}}
+</div>
+
+<script src="../js/vue.js"></script>
+<script>
+  const app = new Vue({
+    el: '#app',
+    data: {
+      firstName: 'Wang',
+      lastName: 'JunMing'
+    },
+    computed: {
+      //计算属性一般是没有set方法，是只读属性
+      fullName: {
+        set: function (newValue) {
+          console.log('调用了fullName的set', newValue)
+          let split = newValue.split(' ');
+          this.firstName = split[0]
+          this.lastName = split[1]
+        },
+
+        get: function () {
+          console.log('调用了fullName的get')
+          return this.firstName + ' ' +this.lastName
+        }
+      }
+    }
+  })
+</script>
+
+<script>
+  const obj = {
+    name: 'why'
+  }
+
+  console.log(obj);
+
+  obj.name = 'xiao';
+
+  console.log(obj);
+</script>
+</body>
+</html>

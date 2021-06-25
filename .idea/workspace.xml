@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a409fc7-ec8c-44a3-8e52-17e5cf9697ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/3.v-html指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/4.v-text指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/5.v-pre指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/6 v-cloak指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/01-v-bind的基本使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/02-v-bind动态绑定class(对象语法).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/03-v-bind动态绑定class(数组语法).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/04-作业(v-for和v-bind的结合).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/05-v-bind动态绑定style(对象语法).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/06-v-bind动态绑定style(数组语法).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/04-计算属性/01-计算属性的基本使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/04-计算属性/02-计算属性的复杂使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs01/04-计算属性/03-计算属性的setter和getter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs02/00-ES6补充/01-块级作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnVuejs02/js/vue.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnVuejs01/04-计算属性/02-计算属性的复杂使用.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LearnVuejs01/04-计算属性/03-计算属性的setter和getter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnVuejs02/js/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearnVuejs02/00-ES6补充/01-块级作用域.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson/1.helloworld.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/02-vue列表展示.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/03-vue定时器.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/01-HelloVuejs.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/template.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/1.Mustache语法.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-指令/1.v-bind.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-指令/v-if.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-指令/3.v-for.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/test/test.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/test/test1.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/2.v-once指令的使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/3.v-html指令的使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/4.v-text指令的使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/5.v-pre.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/5.v-pre指令的使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/02-插值的操作/6 v-cloak指令的使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/01-v-bind的基本使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/02-v-bind动态绑定class.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/02-v-bind动态绑定class(对象语法).html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/03-v-bind动态绑定class(数组语法).html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/04-作业(v-for和v-bind的结合).html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/05-v-bind动态绑定style(对象语法).html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/06-v-bind动态绑定style(数组语法).html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/04-计算属性/01-计算属性的基本使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/04-计算属性/02-计算属性的复杂使用.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs02/00-ES6补充/01-块级作用域.html" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/04-计算属性/03-计算属性的setter和getter.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vue-study.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/LearnVuejs01/LearnVuejs01.iml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/LearnVuejs02/LearnVuejs01.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-175" />
+    <option name="y" value="40" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-study" type="462c0819:PsiDirectoryNode" />
+              <item name="LearnVuejs01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-study" type="462c0819:PsiDirectoryNode" />
+              <item name="LearnVuejs01" type="462c0819:PsiDirectoryNode" />
+              <item name="04-计算属性" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-study" type="462c0819:PsiDirectoryNode" />
+              <item name="LearnVuejs02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\app\java\idea\workspase\test\vue-study" />
+      <recent name="D:\app\java\idea\workspase\test\vue-study\LearnVuejs01\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a409fc7-ec8c-44a3-8e52-17e5cf9697ad" name="Default Changelist" comment="" />
+      <created>1622788563048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622788563048</updated>
+      <workItem from="1622788564205" duration="8776000" />
+      <workItem from="1622814367939" duration="3881000" />
+      <workItem from="1623032843306" duration="3638000" />
+      <workItem from="1623037553031" duration="11698000" />
+      <workItem from="1623114932832" duration="777000" />
+      <workItem from="1623118428746" duration="6593000" />
+      <workItem from="1623203264586" duration="66000" />
+      <workItem from="1623391512689" duration="885000" />
+      <workItem from="1623720684188" duration="2973000" />
+      <workItem from="1623838809329" duration="712000" />
+      <workItem from="1624517316557" duration="11979000" />
+      <workItem from="1624584745831" duration="15901000" />
+    </task>
+    <task id="LOCAL-00001" summary="helloworld">
+      <created>1622814415526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622814415526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="插值的操作">
+      <created>1623061650442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623061650443</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67879000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="helloworld" />
+    <MESSAGE value="插值的操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="插值的操作" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson/1.helloworld.html" />
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/03-vue定时器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/01-HelloVuejs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/LearnVuejs01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/02-vue列表展示.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/01-Vue初体验/template.html" />
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/1.Mustache语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-指令/2.v-if.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-指令/3.v-for.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/test/test1.html" />
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-指令/1.v-bind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/01-v-bind的基本使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/02-v-bind动态绑定class(对象语法).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/03-v-bind动态绑定class(数组语法).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/2.v-once指令的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/3.v-html指令的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/4.v-text指令的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/5.v-pre指令的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/02-插值的操作/6 v-cloak指令的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/04-作业(v-for和v-bind的结合).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/05-v-bind动态绑定style(对象语法).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/03-动态绑定属性/06-v-bind动态绑定style(数组语法).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/04-计算属性/01-计算属性的基本使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/04-计算属性/02-计算属性的复杂使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs02/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs02/00-ES6补充/01-块级作用域.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="599" column="12" selection-start-line="599" selection-start-column="12" selection-end-line="599" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnVuejs01/04-计算属性/03-计算属性的setter和getter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LearnVuejs01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
